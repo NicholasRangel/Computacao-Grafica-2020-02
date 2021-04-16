@@ -1,1 +1,1 @@
-# Computa-o-grafica-2020-2
+# Computacao-grafica-2020-2
